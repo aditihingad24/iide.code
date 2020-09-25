@@ -1,0 +1,46 @@
+#courses div .uk-card{
+
+  border-radius: 5px;
+}
+.blue{
+  border-top: 7px solid #68C1E3;
+}
+.orange{
+  border-top: 7px solid #F47D5F;
+}
+.yellow{
+  border-top: 7px solid #EAC66F;
+}
+.pink{
+  border-top: 7px solid #D885B7;
+}
+.purple{
+  border-top: 7px solid #385A98;
+}
+.dark-pink{
+  border-top: 7px solid #935BA6;
+}
+.uk-navbar-container{
+  height:70px;
+  border-bottom: 1px solid #D3D3D3 !important;
+  background-color: white !important;
+  color:black !important;
+}
+.uk-navbar-container ul li a{
+  color: black !important;
+}
+.uk-navbar-container ul li a:hover{
+  color: #26ADE2 !important;
+}
+progress{
+  color: #68C1E3 !important;
+}
+.text-center{
+text-align: center;
+}
+.done{
+  color: green !important;
+}
+.active{
+  color:#26ADE2 !important;
+}
